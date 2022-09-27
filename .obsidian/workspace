@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Examen1/PicoCTF2021/Nice netCat....md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Examen1/PicoCTF2021/Nice netCat....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Examen1/PicoCTF2021/Nice netCat....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Examen1/PicoCTF2021/Nice netCat....md"
               }
             }
           }
@@ -131,14 +131,14 @@
   "active": "70359dd050b4f2d1",
   "lastOpenFiles": [
     "Examen1/PicoCTF2021/Obedient Cat/Obedient Cat.md",
+    "Examen1/PicoCTF2021/Nice netCat....md",
     "Examen1/PicoCTF2021/Wave a flag/Wave a flag.md",
-    "Examen1/PicoCTF2019/plumbing.md",
+    "retos-bandit/Level0.md",
+    "retos-bandit/Level0a1.md",
+    "retos-bandit/bandit.md",
     "Examen1/PicoCTF2019/Lets Warm Up.md",
-    "Examen1/PicoCTF2019/Warmed Up.md",
-    "Examen1/PicoCTF2019/Based.md",
-    "Examen1/PicoCTF2019/Based/octal_texto.png",
-    "Examen1/PicoCTF2019/Based/Hexadecimal_texto.png",
-    "Examen1/PicoCTF2019/Based/binario_texto.png",
-    "Examen1/PicoCTF2019/First Grep/First Grep.md"
+    "README.md",
+    "Examen1/PicoCTF2019/plumbing.md",
+    "Examen1/PicoCTF2019/Warmed Up.md"
   ]
 }
