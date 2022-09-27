@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/Nivel21a22.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bandit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Nivel21a22.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Nivel21a22.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Nivel21a22.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "70359dd050b4f2d1",
   "lastOpenFiles": [
-    "retos-bandit/Nivel20a21.md",
-    "retos-bandit/Nivel19a20.md",
-    "retos-bandit/Nivel18a19.md",
-    "retos-bandit/Nivel17a18.md",
-    "retos-bandit/Level12a13.md",
-    "retos-bandit/Level13a14.md",
-    "retos-bandit/Level15a16.md",
-    "retos-bandit/Level14a15.md",
-    "retos-bandit/Nivel16a17.md",
-    "retos-bandit/bandit.md"
+    "Examen1/PicoCTF2021/Obedient Cat/Obedient Cat.md",
+    "Examen1/PicoCTF2021/Wave a flag/Wave a flag.md",
+    "Examen1/PicoCTF2019/plumbing.md",
+    "Examen1/PicoCTF2019/Lets Warm Up.md",
+    "Examen1/PicoCTF2019/Warmed Up.md",
+    "Examen1/PicoCTF2019/Based.md",
+    "Examen1/PicoCTF2019/Based/octal_texto.png",
+    "Examen1/PicoCTF2019/Based/Hexadecimal_texto.png",
+    "Examen1/PicoCTF2019/Based/binario_texto.png",
+    "Examen1/PicoCTF2019/First Grep/First Grep.md"
   ]
 }
