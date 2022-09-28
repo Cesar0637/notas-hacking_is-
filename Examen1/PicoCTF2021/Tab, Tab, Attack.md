@@ -1,0 +1,31 @@
+# Tab, Tab, Attack
+
+## Objetivo
+
+Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames: [Addadshashanammu.zip](https://mercury.picoctf.net/static/9689f2b453ad5daeb73ca7534e4d1521/Addadshashanammu.zip)
+
+## Solución
+Descomprimimos 
+(kali㉿kali)-[~/Downloads]
+└─$ unzip Addadshashanammu.zip
+Archive:  Addadshashanammu.zip
+   creating: Addadshashanammu/
+   creating: Addadshashanammu/Almurbalarammi/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/
+  inflating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet  
+
+-----------------------------------------------------
+Vamos ala direccion del archivo
+----------------------------------------------------------------------------------
+  ┌──(kali㉿kali)-[~/Downloads]
+└─$  cd Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularraabrimos el archivo 
+
+┌──(kali㉿kali)-[~/…/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku]
+└─$ ./fang-of-haynekhtnamet
+*ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_f3553887}
+                                                  
+
