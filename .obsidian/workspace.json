@@ -11,8 +11,12 @@
             "id": "3e1ef6f75dde7763",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md"
+              }
             }
           }
         ]
@@ -128,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e1ef6f75dde7763",
+  "active": "15b53112adc28a96",
   "lastOpenFiles": [
     "actividad13picoctf/No Padding, No Problem.md",
     "actividad13picoctf/Mind your Ps and Qs.md",
