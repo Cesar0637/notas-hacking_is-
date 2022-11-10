@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md",
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192.5
+    "width": 314.5
   },
   "right": {
     "id": "44890938d9bf10e6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md",
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md",
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/information.md"
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15b53112adc28a96",
+  "active": "3e1ef6f75dde7763",
   "lastOpenFiles": [
-    "actividad13picoctf/No Padding, No Problem.md",
-    "actividad13picoctf/Mind your Ps and Qs.md",
-    "actividad13picoctf/Pixelated.md",
-    "Plantilla/tEMPLATE.md",
-    "Examen1/PicoCTF2019/Based.md",
-    "picoCTF2019-Parte2/Irish-Name-Repo 1.md",
-    "picoCTF2019-Parte2/Irish-Name-Repo 2.md",
-    "Tarea 5 pico CTF/Inspect HTML.md",
-    "Tarea 5 pico CTF/Includes.md",
-    "Tarea 5 pico CTF/Forbidden Paths.md"
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Redaction gone wrong.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Packets Primer.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Lookey here.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Enhance!.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Operation Oni.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Sleuthkit Intro.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2021/Wireshark doo dooo do doo....md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2021/information.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2021/Wireshark twoo twooo two twoo....md",
+    "Screenshot_2022-10-31_17_18_50.png.md"
   ]
 }
