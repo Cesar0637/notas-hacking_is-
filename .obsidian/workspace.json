@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md",
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "44890938d9bf10e6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md",
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md",
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/St3g0.md"
+                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "3e1ef6f75dde7763",
   "lastOpenFiles": [
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Redaction gone wrong.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Packets Primer.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Lookey here.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Enhance!.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Operation Oni.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2022/Sleuthkit Intro.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2021/Wireshark doo dooo do doo....md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2021/information.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2021/Wireshark twoo twooo two twoo....md",
-    "Screenshot_2022-10-31_17_18_50.png.md"
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet0.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/like1000.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/c0rrupt.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WhitePages.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/m00nwalk.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/What Lies Within.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/extensions.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/shark on wire 2.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/Glory of the Garden.md",
+    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/garden.jpg"
   ]
 }
