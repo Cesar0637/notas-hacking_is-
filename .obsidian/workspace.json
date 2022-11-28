@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3c78540448b6f86",
+        "id": "d5b53ca8e32a4941",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1ef6f75dde7763",
+            "id": "165d015ba5db3b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md",
+                "file": "Crypto/picoCTF 2022/rail fence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md",
+                "file": "Crypto/picoCTF 2022/rail fence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md",
+                "file": "Crypto/picoCTF 2022/rail fence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet1.md"
+                "file": "Crypto/picoCTF 2022/rail fence.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e1ef6f75dde7763",
+  "active": "165d015ba5db3b6b",
   "lastOpenFiles": [
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WebNet0.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/like1000.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/c0rrupt.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/WhitePages.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/m00nwalk.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/What Lies Within.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/extensions.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/shark on wire 2.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/Glory of the Garden.md",
-    "Tarea 6 - Retos Forensic PicoCTF/Retos-Forensic picoCTF 2019/garden.jpg"
+    "Crypto/picoCTF 2022/morse-code.md",
+    "Crypto/picoCTF 2022/Help-pictures-notes/Screenshot_2022-11-16_15_02_56.png",
+    "Crypto/picoCTF 2022/credstuff.md",
+    "Crypto/picoCTF 2022/rail fence.md",
+    "Crypto/picoCTF 2022/basic-mod1.md",
+    "Crypto/picoCTF 2021/Mod 26.md",
+    "Crypto/picoCTF 2021/Mini RSA.md",
+    "Crypto/picoCTF 2021/scrambled2.png",
+    "Crypto/picoCTF 2021/scrambled1.png",
+    "Crypto/picoCTF 2021/nueva.png"
   ]
 }
