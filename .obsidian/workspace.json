@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/picoCTF 2022/rail fence.md",
+                "file": "Reversing/Retos-Reversing picoCTF/asm2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/picoCTF 2022/rail fence.md",
+                "file": "Reversing/Retos-Reversing picoCTF/asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/picoCTF 2022/rail fence.md",
+                "file": "Reversing/Retos-Reversing picoCTF/asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/picoCTF 2022/rail fence.md"
+                "file": "Reversing/Retos-Reversing picoCTF/asm2.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "165d015ba5db3b6b",
   "lastOpenFiles": [
-    "Crypto/picoCTF 2022/morse-code.md",
-    "Crypto/picoCTF 2022/Help-pictures-notes/Screenshot_2022-11-16_15_02_56.png",
-    "Crypto/picoCTF 2022/credstuff.md",
+    "Reversing/Retos-Reversing picoCTF/asm1.md",
+    "Reversing/Retos-Reversing picoCTF/asm2.md",
+    "Reversing/Retos-Reversing picoCTF/vault-door-6.md",
+    "Reversing/Retos-Reversing picoCTF/vault-door-5.md",
+    "Reversing/Retos-Reversing picoCTF/vault-door-4.md",
+    "Reversing/Retos-Reversing picoCTF/vault-door-3.md",
+    "Reversing/Retos-Reversing picoCTF/vault-door-1.md",
+    "Reversing/Retos-Reversing picoCTF/vault-door-training.md",
     "Crypto/picoCTF 2022/rail fence.md",
-    "Crypto/picoCTF 2022/basic-mod1.md",
-    "Crypto/picoCTF 2021/Mod 26.md",
-    "Crypto/picoCTF 2021/Mini RSA.md",
-    "Crypto/picoCTF 2021/scrambled2.png",
-    "Crypto/picoCTF 2021/scrambled1.png",
-    "Crypto/picoCTF 2021/nueva.png"
+    "Crypto/picoCTF 2022/morse-code.md"
   ]
 }
