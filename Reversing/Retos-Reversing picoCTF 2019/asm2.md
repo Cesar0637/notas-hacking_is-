@@ -1,11 +1,13 @@
 # asm2
 ## Objetivo
-What does asm2(0xb,0x2e) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. [Source](https://jupiter.challenges.picoctf.org/static/ceac75672637589213b952abe32c84b3/test.S)
+What does asm2(0xb,0x2e) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. [Source](https://jupiter.challenges.picoctf.org/static/717467c8c8b4332ea5873ad8fe7b2dad/test.S)
 
 ## Soluciòn
-```shell
-
-asm2(0xb,0x2e)
+No tiene Solucion porque pide que le restemos (0xffffff80) a 0xb por lo que se convierte en negativo haciendo que siempre se cumpla la condicion si es menor o igual a 0x63f3 
+asm2:
+        <+0>:   push   ebp
+        <+1>:   mov    ebp,esp
+        <+3>:   sub    esp,0x10
         <+6>:   mov    eax,DWORD PTR [ebp+0xc]
         <+9>:   mov    DWORD PTR [ebp-0x4],eax
         <+12>:  mov    eax,DWORD PTR [ebp+0x8]
@@ -17,41 +19,6 @@ asm2(0xb,0x2e)
         <+35>:  jle    0x501 <asm2+20>
         <+37>:  mov    eax,DWORD PTR [ebp-0x4]
         <+40>:  leave  
-        <+41>:  ret                                      
-asm2:0x4,0x2d
-        <+6>:   mov    eax,DWORD PTR [ebp+0xc]
-        <+9>:   mov    DWORD PTR [ebp-0x4],eax
-        <+12>:  mov    eax,DWORD PTR [ebp+0x8]
-        <+15>:  mov    DWORD PTR [ebp-0x8],eax
-        <+18>:  jmp    0x50c <asm2+31>
-        <+20>:  add    DWORD PTR [ebp-0x4],0x1
-        <+24>:  add    DWORD PTR [ebp-0x8],0xd1
-        <+31>:  cmp    DWORD PTR [ebp-0x8],0x5fa1
-        <+38>:  jle    0x501 <asm2+20>
-        <+40>:  mov    eax,DWORD PTR [ebp-0x4]
-        <+43>:  leave  
-        <+44>:  ret    
-
-                                                                   
-
->>> hex(0xb + 0xffffff80)
-'0xd5'
->>> 0xd5 <= 0x5fa1
-True
->>> 0x5fa1 / 0xd1
-117.13397129186603
->>> int(0x2d)
-45
->>> hex(118 + 45)
-'0xa3'
->>> exit()
-                                                                   
-┌──(kali㉿kali)-[~/…/RetosKali-exam--editar/CarpetaKali-exam1/Retos-Reversing/2019]
-└─$ 
-
-```
-
-flag: 0xa3
-
+        <+41>:  ret 
 ## Referencias
 - []()
